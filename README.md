@@ -1,6 +1,6 @@
 # Kotlin version of the Apache Spark Self contained application
 
-[As per](http://spark.apache.org/docs/latest/quick-start.html#self-contained-applications)
+As per [http://spark.apache.org/docs/latest/quick-start.html#self-contained-applications](http://spark.apache.org/docs/latest/quick-start.html#self-contained-applications)
 
 ## Build 
 ```
